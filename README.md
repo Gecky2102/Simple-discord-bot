@@ -147,11 +147,17 @@ Commands to entertain and engage your server members:
 - `!rps` - Play Rock, Paper, Scissors.  
 - `!music` - Show the list of music commands.  
 
----
 
 ## Contributing  
 Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request.  
 
+## Star the Project ⭐  
+
+If you find this project useful or interesting, feel free to give it a ⭐ (star) on GitHub! Your support helps to keep the project alive and encourages future improvements.
+
+[Star the repository here](https://github.com/Gecky2102/Simple-discord-bot)
 
 ---  
 Made with ❤️ by [Gecky](https://www.geckydev.me)    
+
+
